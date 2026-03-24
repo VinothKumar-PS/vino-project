@@ -3,4 +3,5 @@ reportlab
 moviepy
 imageio-ffmpeg
 faster-whisper
+openai-whisper
 yt-dlp
